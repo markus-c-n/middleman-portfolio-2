@@ -1,19 +1,33 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: QuizMate
+  subheading: A.I., Ed-Tech, Mobile
+  description: Your A.I. study budy
+  role: Product Manager, Full-Stack Developer
+  description:
+  image: projects/quizmate_overview_black.png
+  logo: projects/quizmate_logo.png
+  url: https://www.google.com
+
+- name: Medease
+  subheading: The OR management system and marketplace
+  description: Description
+  role: Product Manager, Full-Stack Developer
+  skills: Health-tech, Marketplace
+  image: projects/medease_landingpage.png
+  logo: projects/medease_logo.png
+  url: https://www.google.com
+
+- name: getquin User Leaderboard
+  subheading: FinTech Gamification
+  description: Description
+  role: Product Manager
+  skills: product management
   image: projects/placeholder.png
   url: https://www.google.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
+- name: RHPS Berlin Web Consulting
+  subheading: Decent description of the app
+  description: Description
+  role: Project Owner
+  skills: Digitalisation & Consulting
   image: projects/placeholder.png
   url: https://www.google.com

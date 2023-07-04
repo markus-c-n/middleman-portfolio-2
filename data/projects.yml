@@ -1,15 +1,14 @@
 - name: QuizMate
   subheading: A.I., Ed-Tech, Mobile
-  description: Your A.I. study budy
+  description: A.I. powered study app, aimed to eliminate all the tedious prep work required for revising a topic of your interest. If after a museum visit, a read book or watched documentary, QuizMate helps keep in touch with what you learned.
   role: Product Manager, Full-Stack Developer
-  description:
   image: projects/quizmate_overview_black.png
   logo: projects/quizmate_logo.png
   url: https://www.google.com
 
 - name: Medease
   subheading: The OR management system and marketplace
-  description: Description
+  description: A operation facility management and marketplace platform. Aimed to decrease the inefficiencies and knowledge gaps between doctors and medical facilites such as private hospials.
   role: Product Manager, Full-Stack Developer
   skills: Health-tech, Marketplace
   image: projects/medease_landingpage.png
@@ -18,7 +17,7 @@
 
 - name: getquin User Leaderboard
   subheading: FinTech Gamification
-  description: Description
+  description: Implementation of a gamification feature aimed to increase the companies northstar KPI at that time, activity per user. Implementing a leaderboard which was used for a timely limited in-app game like challenge proved efficient for pushing the KPI.
   role: Product Manager
   skills: product management
   image: projects/placeholder.png
@@ -26,7 +25,7 @@
 
 - name: RHPS Berlin Web Consulting
   subheading: Decent description of the app
-  description: Description
+  description: Voluntarily consulted the Berlin RHPS cast on their online presence and implemented a digitalisation strategy starting with a revamp of their website.
   role: Project Owner
   skills: Digitalisation & Consulting
   image: projects/rhps.png

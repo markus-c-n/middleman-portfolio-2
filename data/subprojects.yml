@@ -1,20 +1,20 @@
-- name: JavaScript Minesweeper
-  description: Your A.I. study budy
-  subheading: A.I., Ed-Tech, Mobile
-  description:
-  image: projects/placeholder.png
-  url: https://www.google.com
+# - name: JavaScript Minesweeper
+#   description: Your A.I. study budy
+#   subheading: A.I., Ed-Tech, Mobile
+#   description:
+#   image: projects/placeholder.png
+#   url: https://www.google.com
 
-- name: JavaScript Racing Game
-  subheading: The OR management system and marketplace
-  description:
-  skills: Health-tech, Marketplace
-  image: projects/placeholder.png
-  url: https://www.google.com
+# - name: JavaScript Racing Game
+#   subheading: The OR management system and marketplace
+#   description:
+#   skills: Health-tech, Marketplace
+#   image: projects/placeholder.png
+#   url: https://www.google.com
 
-- name: Popcorn list | Cloud Movie Watch-List
-  subheading: The OR management system and marketplace
-  description:
-  skills: Health-tech, Marketplace
-  image: projects/placeholder.png
-  url: https://www.google.com
+# - name: Popcorn list | Cloud Movie Watch-List
+#   subheading: The OR management system and marketplace
+#   description:
+#   skills: Health-tech, Marketplace
+#   image: projects/placeholder.png
+#   url: https://www.google.com
